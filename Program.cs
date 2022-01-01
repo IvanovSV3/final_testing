@@ -18,3 +18,17 @@ for (int i = 0; i < 20; i++)
 Console.WriteLine();
 Console.WriteLine("Количество четных элементов = "+k);
 Console.WriteLine("Массив из четных чисел:");
+
+int[] arrayfinal = new int[k];
+
+k = 0;
+
+for (int i = 0; i < 20; i++)
+{
+    if (array[i]%2 == 0)
+    {
+        arrayfinal[k] = array[i];
+        Console.Write(arrayfinal[k]+" ");
+        k++;        
+    }
+}
