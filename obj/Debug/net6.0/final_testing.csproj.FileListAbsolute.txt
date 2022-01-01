@@ -1,0 +1,16 @@
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.GlobalUsings.g.cs
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.csproj.AssemblyReference.cache
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.AssemblyInfoInputs.cache
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.AssemblyInfo.cs
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.csproj.CoreCompileInputs.cache
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\final_testing.exe
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\final_testing.deps.json
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\final_testing.runtimeconfig.json
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\final_testing.dll
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\ref\final_testing.dll
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\bin\Debug\net6.0\final_testing.pdb
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.dll
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\ref\final_testing.dll
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.pdb
+D:\Иванов СВ\GB\3 мес\Итог\final_testing\obj\Debug\net6.0\final_testing.genruntimeconfig.cache
